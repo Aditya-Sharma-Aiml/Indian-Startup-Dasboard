@@ -4,6 +4,16 @@ A comprehensive **Streamlit-based interactive dashboard** for analyzing Indian s
 
 ---
 
+## 🌐 Live Demo
+
+**✨ Access the Live Dashboard Here:**
+
+### 👉 [https://indian-startup.streamlit.app/](https://indian-startup.streamlit.app/)
+
+The dashboard is deployed and live on **Streamlit Cloud**. You can access it directly from your browser without any setup!
+
+---
+
 ## 📋 Project Overview
 
 This dashboard provides three powerful perspectives for understanding startup ecosystem dynamics:
@@ -229,32 +239,49 @@ Comprehensive company-level information:
 
 ## 📦 Installation & Setup
 
-### Prerequisites
+### Option 1: Use Live Dashboard (Recommended) ⚡
+
+**No installation required!** Simply visit:
+
+### 🌐 [https://indian-startup.streamlit.app/](https://indian-startup.streamlit.app/)
+
+The dashboard is deployed and live, ready to use immediately.
+
+---
+
+### Option 2: Run Locally
+
+#### Prerequisites
 
 - Python 3.7+
 - pip package manager
+- Git
 - Virtual environment (optional but recommended)
 
-### Step 1: Clone/Download Project
+#### Step 1: Clone Repository
 
 ```bash
-cd d:\Streamlit\startup_dashboard
+git clone https://github.com/Aditya-Sharma-Aiml/Indian-Startup-Dasboard.git
+cd Indian-Startup-Dasboard
 ```
 
-### Step 2: Create Virtual Environment (Optional)
+#### Step 2: Create Virtual Environment (Optional)
 
 ```bash
 python -m venv venv
+# On Windows:
 .\venv\Scripts\Activate.ps1
+# On macOS/Linux:
+source venv/bin/activate
 ```
 
-### Step 3: Install Dependencies
+#### Step 3: Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Step 4: Run Dashboard
+#### Step 4: Run Dashboard
 
 ```bash
 streamlit run app.py
@@ -476,11 +503,21 @@ https://www.markdownguide.org/
 
 ---
 
+## � Important Links
+
+- **🌐 Live Dashboard:** https://indian-startup.streamlit.app/
+- **📚 GitHub Repository:** https://github.com/Aditya-Sharma-Aiml/Indian-Startup-Dasboard
+- **📖 Streamlit Documentation:** https://docs.streamlit.io/
+- **📊 Dataset Source:** https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding
+
+---
+
 ## 📄 License & Credits
 
 **Created by:** Aditya Sharma  
 **Built with:** ❤️ Streamlit & Python  
-**Data Source:** Indian Startup Funding Dataset (Kaggle)
+**Data Source:** Indian Startup Funding Dataset (Kaggle)  
+**Deployment:** Streamlit Cloud
 
 © 2026 All rights reserved.
 
