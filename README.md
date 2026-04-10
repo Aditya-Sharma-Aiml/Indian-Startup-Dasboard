@@ -395,7 +395,99 @@ Dashboard will open at: `http://localhost:8501`
 
 ---
 
-## 📝 Plan of Action (Completed)
+## � Dashboard Screenshots
+
+### 🌐 Overall Analysis Section
+
+Comprehensive market-wide insights and trends across the Indian startup ecosystem.
+
+#### Key Metrics and Trends
+
+<img src="DashboardScreenShots/Screenshot 2026-04-11 042400.png" alt="Overall Analysis - Main Dashboard" width="100%">
+
+_Overall Analysis dashboard with KPI metrics and month-over-month trends_
+
+#### Year-over-Year Investment Trends
+
+<img src="DashboardScreenShots/Screenshot 2026-04-11 042159.png" alt="Year-over-Year Investment Trends" width="100%">
+
+_Visualization of investment amounts declining over the years (2015-2018)_
+
+#### Biggest Investments & Sectors
+
+<img src="DashboardScreenShots/Screenshot 2026-04-11 042215.png" alt="Biggest Investments and Sectors" width="100%">
+
+_Top startup investments and sector-wise distribution analysis_
+
+#### City-wise Funding Distribution
+
+<img src="DashboardScreenShots/Screenshot 2026-04-11 042408.png" alt="City-wise Funding" width="100%">
+
+_Funding amount breakdown by major Indian cities (Bangalore, Gurgaon, Mumbai, etc.)_
+
+#### Top Startups and Investors
+
+<img src="DashboardScreenShots/Screenshot 2026-04-11 042416.png" alt="Top 10 Startups and Investors" width="100%">
+
+_Ranked list of top 10 funded startups and most active investors_
+
+#### Top Sectors Analysis
+
+<img src="DashboardScreenShots/Screenshot 2026-04-11 042424.png" alt="Top Sectors by Funding" width="100%">
+
+_Sector-wise funding amounts and distribution by number of deals_
+
+#### Investment Round Type Distribution
+
+<img src="DashboardScreenShots/Screenshot 2026-04-11 042731.png" alt="Investment Distribution by Round Type" width="100%">
+
+_Comparison of investment amounts across different funding rounds (Private Equity, Seed Angel Funding)_
+
+---
+
+### 👤 Investor Analysis Section
+
+Detailed portfolio analysis for individual investors with investment patterns and history.
+
+#### Investor Portfolio Overview (Amazon Example)
+
+<img src="DashboardScreenShots/Screenshot 2026-04-11 042147.png" alt="Investor Analysis - Amazon" width="100%">
+
+_Amazon investor profile with total investments, amount invested, and recent investment history_
+
+#### Additional Investor Analytics
+
+<img src="DashboardScreenShots/Screenshot 2026-04-11 042223.png" alt="Investor Additional Metrics" width="100%">
+
+_Detailed investor metrics and investment breakdown_
+
+---
+
+### 🚀 Startup Analysis Section
+
+Comprehensive company-level information and funding history analysis.
+
+#### Startup Profile (Unacademy Example)
+
+<img src="DashboardScreenShots/Screenshot 2026-04-11 042234.png" alt="Startup Analysis - Unacademy" width="100%">
+
+_Unacademy startup details with funding rounds, total funding, and company information_
+
+#### Cumulative Funding Timeline
+
+<img src="DashboardScreenShots/Screenshot 2026-04-11 042737.png" alt="Cumulative Funding Over Time" width="100%">
+
+_Unacademy's cumulative funding growth trajectory from 2017 to 2019_
+
+#### Similar Companies Analysis
+
+<img src="DashboardScreenShots/Screenshot 2026-04-11 042745.png" alt="Similar Companies in Same Vertical" width="100%">
+
+_Competitive analysis showing similar EdTech startups and their funding amounts_
+
+---
+
+## �📝 Plan of Action (Completed)
 
 ### Phase 1: Data Cleaning ✅
 
