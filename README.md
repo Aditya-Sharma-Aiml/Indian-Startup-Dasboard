@@ -36,7 +36,34 @@ startup_dashboard/
 ├── needs.txt                   # Project planning & references
 └── README.md                   # This file
 ```
+---
 
+## 📸 Dashboard Screenshots
+
+### 🔹 Overall Dashboard
+<p align="center">
+  <img src="DashboardScreenShots/overall1.png" width="30%" />
+  <img src="DashboardScreenShots/overall2.png" width="30%" />
+  <img src="DashboardScreenShots/overall3.png" width="30%" />
+</p>
+
+---
+
+### 🔹 Investor Analysis
+<p align="center">
+  <img src="DashboardScreenShots/investor1.png" width="30%" />
+  <img src="DashboardScreenShots/investor2.png" width="30%" />
+  <img src="DashboardScreenShots/investor3.png" width="30%" />
+</p>
+
+---
+
+### 🔹 Startup Analysis
+<p align="center">
+  <img src="DashboardScreenShots/startup1.png" width="30%" />
+  <img src="DashboardScreenShots/startup2.png" width="30%" />
+  <img src="DashboardScreenShots/startup3.png" width="30%" />
+</p>
 ---
 
 ## 🎯 Features Implemented
