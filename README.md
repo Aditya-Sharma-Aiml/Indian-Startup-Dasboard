@@ -1,26 +1,74 @@
-# 🏢 Startup Funding Analysis Dashboard
+<div align="center">
 
-A comprehensive **Streamlit-based interactive dashboard** for analyzing Indian startup funding data with powerful insights into startups, investors, and market trends.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d4a6e,100:0e7490&height=200&section=header&text=Startup%20Funding%20Dashboard&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Indian%20Startup%20Ecosystem%20%7C%20Powered%20by%20Streamlit&descAlignY=58&descSize=18&descColor=7dd3fc"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Explore+Indian+Startup+Funding+Trends.;Analyze+Investor+Portfolios+at+a+Glance.;Uncover+Market+Insights+Interactively.;Live+on+Streamlit+Cloud+%E2%80%94+No+Setup+Needed.)](https://git.io/typing-svg)
+
+<br/>
+
+[![Live App](https://img.shields.io/badge/🚀%20Live%20App-Open%20Dashboard-0ea5e9?style=for-the-badge&labelColor=0a1628)](https://indian-startup.streamlit.app/)
+&nbsp;
+[![Streamlit](https://img.shields.io/badge/Streamlit-Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+&nbsp;
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Dataset-Indian%20Startups-0ea5e9?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=flat-square&logo=pandas&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-3D4DB7?style=flat-square&logo=plotly&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-Visualizations-11557C?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/License-MIT-22c55e?style=flat-square"/>
+
+<br/><br/>
+
+> 🏢 A comprehensive **Streamlit-based interactive dashboard** for analyzing Indian startup funding data
+> with powerful insights into startups, investors, and market trends.
+
+<br/>
+
+[🌐 **Live Demo**](https://indian-startup.streamlit.app/) 
+
+</div>
 
 ---
 
 ## 🌐 Live Demo
 
-**✨ Access the Live Dashboard Here:**
+<div align="center">
+
+### ✨ Access the Live Dashboard Here:
 
 ### 👉 [https://indian-startup.streamlit.app/](https://indian-startup.streamlit.app/)
 
-The dashboard is deployed and live on **Streamlit Cloud**. You can access it directly from your browser without any setup!
+The dashboard is deployed and live on **Streamlit Cloud**.
+You can access it directly from your browser without any setup!
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://indian-startup.streamlit.app/)
+
+</div>
 
 ---
 
 ## 📋 Project Overview
 
-This dashboard provides three powerful perspectives for understanding startup ecosystem dynamics:
+This dashboard provides **three powerful perspectives** for understanding startup ecosystem dynamics:
 
-1. **Overall Analysis** — Market-wide insights and trends
-2. **Investor Analysis** — Portfolio details and investment patterns
-3. **Startup Analysis** — Company-specific funding history and metrics
+<div align="center">
+
+| # | View | What You'll Find |
+|:---:|---|---|
+| 1️⃣ | **Overall Analysis** | Market-wide insights and trends |
+| 2️⃣ | **Investor Analysis** | Portfolio details and investment patterns |
+| 3️⃣ | **Startup Analysis** | Company-specific funding history and metrics |
+
+</div>
 
 ---
 
@@ -29,536 +77,166 @@ This dashboard provides three powerful perspectives for understanding startup ec
 ```
 startup_dashboard/
 │
-├── app.py                      # Main Streamlit application
-├── requirements.txt            # Python dependencies
-├── startup_cleaned.csv         # Cleaned dataset (primary data source)
-├── startup_funding.csv         # Raw dataset (backup)
-├── needs.txt                   # Project planning & references
-└── README.md                   # This file
+├── 📄 app.py                    # Main Streamlit application
+├── 📦 requirements.txt          # Python dependencies
+├── 🗂️  startup_cleaned.csv      # Cleaned dataset (primary data source)
+├── 🗂️  startup_funding.csv      # Raw dataset (backup)
+├── 📝 needs.txt                 # Project planning & references
+└── 📖 README.md                 # This file
 ```
+
 ---
 
 ## 📸 Dashboard Screenshots
 
 ### 🔹 Overall Dashboard
-<p align="center">
-  <img src="DashboardScreenShots/overall1.png" width="30%" />
-  <img src="DashboardScreenShots/overall2.png" width="30%" />
-  <img src="DashboardScreenShots/overall3.png" width="30%" />
-</p>
 
----
+<p align="center">
+<img src="DashboardScreenShots/overall1.png" width="30%" />
+<img src="DashboardScreenShots/overall2.png" width="30%" />
+<img src="DashboardScreenShots/overall3.png" width="30%" />
+</p>
 
 ### 🔹 Investor Analysis
-<p align="center">
-  <img src="DashboardScreenShots/investor1.png" width="30%" />
-  <img src="DashboardScreenShots/investor2.png" width="30%" />
-  <img src="DashboardScreenShots/investor3.png" width="30%" />
-</p>
 
----
+<p align="center">
+<img src="DashboardScreenShots/investor1.png" width="30%" />
+<img src="DashboardScreenShots/investor2.png" width="30%" />
+<img src="DashboardScreenShots/investor3.png" width="30%" />
+</p>
 
 ### 🔹 Startup Analysis
+
 <p align="center">
-  <img src="DashboardScreenShots/startup1.png" width="30%" />
-  <img src="DashboardScreenShots/startup2.png" width="30%" />
-  <img src="DashboardScreenShots/startup3.png" width="30%" />
+<img src="DashboardScreenShots/startup1.png" width="30%" />
+<img src="DashboardScreenShots/startup2.png" width="30%" />
+<img src="DashboardScreenShots/startup3.png" width="30%" />
 </p>
----
-
-## 🎯 Features Implemented
-
-### 1️⃣ **Overall Analysis Dashboard**
-
-Provides comprehensive market-level insights:
-
-#### Key Metrics (KPI Cards)
-
-- **Total Invested** — Sum of all funding amounts (Cr)
-- **Max Startup Funding** — Highest single funding amount
-- **Avg Funding/Startup** — Average funding per company
-- **Funded Startups** — Total count of funded companies
-
-#### Visualizations
-
-- 📊 **Month-over-Month (MoM) Trends** — Track funding activity over time
-  - Toggle between Total Amount and Deal Count
-  - Interactive line chart with date labels
-- 🏆 **Top Sectors Analysis**
-  - Horizontal bar chart: Sector-wise funding amounts
-  - Pie chart: Sector distribution by deal count
-- 🌆 **City-wise Funding**
-  - Bar chart showing funding distribution across major Indian cities
-  - Top 10 cities highlighted
-- 🚀 **Top 10 Startups**
-  - Ranked by total funding received
-  - Dataframe with startup names and amounts
-- 💼 **Top 10 Investors**
-  - Ranked by number of investments made
-  - Shows portfolio diversity
 
 ---
 
-### 2️⃣ **Investor Analysis**
+## ✨ Key Features
 
-Detailed portfolio analysis for individual investors:
+<table>
+<tr>
+<td valign="top" width="50%">
 
-#### Investor Selection
+### 📊 &nbsp;Overall Analysis
+> *The big picture of Indian startup funding*
 
-- Dropdown menu with all unique investors in dataset
-- Clean, validated list with no empty values
+- 📈 Month-over-month funding trends
+- 🏙️ Top funded cities & sectors
+- 💰 Funding type distribution (Seed, Series A/B/C...)
+- 🔥 Heatmaps & time-series visualizations
 
-#### Summary Metrics
+</td>
+<td valign="top" width="50%">
 
-- Total Investments (deal count)
-- Total Amount Invested (Cr)
-- Average Investment Size (Cr)
-- Unique Startups Funded
+### 👤 &nbsp;Investor Analysis
+> *Deep-dive into any investor's portfolio*
 
-#### Analysis Sections
+- 🔍 Search any investor by name
+- 📋 Full investment portfolio view
+- 🏭 Sector & stage preferences
+- 🤝 Co-investor network insights
 
-**📅 Most Recent Investments**
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-- Table showing last 10 investments
-- Columns: Date, Startup, Vertical, City, Round, Amount
+### 🚀 &nbsp;Startup Analysis
+> *Detailed profile for every startup*
 
-**💎 Biggest Investments**
+- 📜 Complete funding round history
+- 💵 Total funds raised breakdown
+- 👥 Investor list per company
+- 📅 Timeline of funding milestones
 
-- Horizontal bar chart of top 10 largest investments
-- Helps identify core portfolio companies
+</td>
+<td valign="top" width="50%">
 
-**🎯 Sectors Invested In**
+### ⚡ &nbsp;Built for Exploration
+> *Intuitive, fast, and interactive*
 
-- Pie chart showing sector distribution
-- Percentage breakdown of investment focus areas
+- 🎛️ Sidebar filters for instant drill-down
+- 📱 Responsive layout for all screen sizes
+- 🌐 Zero setup — runs live in your browser
+- 📤 Exportable charts and data tables
 
-**📈 Year-over-Year (YoY) Trends**
-
-- Line chart showing investment evolution over years
-- Identifies growing vs. declining investment activity
-
-**🔷 Investment by Round Type**
-
-- Bar chart of funding round distribution
-- Shows seed, series A, B, C, PE, etc. patterns
-
----
-
-### 3️⃣ **Startup Analysis**
-
-Comprehensive company-level information:
-
-#### Startup Selection
-
-- Dropdown with all startups in dataset
-- Filtered to exclude empty/null entries
-
-#### Summary Metrics
-
-- Funding Rounds (total funding events)
-- Total Funding (Cr)
-- Latest Round (most recent funding type)
-- Total Investors (count of unique investors)
-
-#### Company Information
-
-- **Industry** — Primary vertical (e.g., FinTech, E-commerce)
-- **Sub-industry** — Specific business domain
-- **Headquarters** — Company location
-- **First Funding Date** — When company first received funding
-- **Latest Funding Date** — Most recent investment round
-
-#### Key Sections
-
-**💵 Funding Timeline**
-
-- Chronological table of all funding events
-- Shows progression of rounds and investor participation
-
-**📊 Cumulative Funding Over Time**
-
-- Line chart showing total capital raised progressively
-- Visualizes company's funding trajectory
-
-**👥 All Associated Investors**
-
-- Comprehensive list of every investor who funded the startup
-- Shows entire investor ecosystem around company
-
-**🤝 Similar Companies**
-
-- Companies in same vertical as selected startup
-- Top 10 similar companies ranked by funding
-- Allows competitive analysis
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 Data Analysis & Processing
+## 🛠️ Tech Stack
 
-### Data Source
+<div align="center">
 
-**Indian Startup Funding Dataset** (from Kaggle)
+| | Technology | Purpose |
+|:---:|---|---|
+| 🖥️ | **Streamlit** | Web app framework & deployment |
+| 🐼 | **Pandas** | Data wrangling & analysis |
+| 📊 | **Plotly** | Interactive charts & graphs |
+| 📉 | **Matplotlib / Seaborn** | Static visualizations |
+| ☁️ | **Streamlit Cloud** | Free hosting & deployment |
 
-### Data Features
-
-```
-- date: Funding announcement date
-- startup: Company name
-- vertical: Primary industry sector
-- subvertical: Specific business domain
-- city: Headquarters location
-- investors: Comma-separated investor names
-- round: Funding round type (Seed, Series A, PE, etc.)
-- amount: Funding amount in Crores (Cr)
-```
-
-### Data Cleaning Process
-
-1. **Removed Invalid Entries**
-   - URLs used as startup names → Removed
-   - Missing startup names → Filtered out
-2. **Standardized Values**
-   - Converted all text to lowercase for consistency
-   - Normalized round type naming (Seed Round, Series A, etc.)
-3. **Handled Missing Data**
-   - Zero/null funding amounts → Filtered for analysis
-   - Invalid dates → Coerced to proper datetime format
-4. **Investor Parsing**
-   - Split comma-separated investor strings
-   - Trimmed whitespace from investor names
-   - Created unique investor list
-
-### Data Preparation for Visualization
-
-1. **Time-based Aggregation**
-   - Extracted year and month from dates
-   - Grouped by time periods for trends
-2. **Categorical Analysis**
-   - Grouped by vertical (sector)
-   - Grouped by city (location)
-   - Grouped by round type (funding stage)
-3. **Aggregation Metrics**
-   - Sum: Total funding amounts
-   - Count: Number of deals/investments
-   - Mean: Average funding sizes
-   - Unique: Investor/startup counts
+</div>
 
 ---
 
-## 🛠️ Technology Stack
+## ⚙️ Run Locally
 
-### Frontend
-
-- **Streamlit** (v1.28.1) — Web app framework
-- **Python** (3.x) — Programming language
-
-### Data Processing
-
-- **Pandas** (v2.1.3) — Data manipulation & analysis
-- **NumPy** (v1.24.3) — Numerical operations
-
-### Visualization
-
-- **Matplotlib** (v3.8.2) — Chart library
-- **Seaborn** (v0.13.0) — Statistical visualizations
-
----
-
-## 📦 Installation & Setup
-
-### Option 1: Use Live Dashboard (Recommended) ⚡
-
-**No installation required!** Simply visit:
-
-### 🌐 [https://indian-startup.streamlit.app/](https://indian-startup.streamlit.app/)
-
-The dashboard is deployed and live, ready to use immediately.
-
----
-
-### Option 2: Run Locally
-
-#### Prerequisites
-
-- Python 3.7+
-- pip package manager
-- Git
-- Virtual environment (optional but recommended)
-
-#### Step 1: Clone Repository
-
+**① Clone the repository**
 ```bash
-git clone https://github.com/Aditya-Sharma-Aiml/Indian-Startup-Dasboard.git
-cd Indian-Startup-Dasboard
+git clone https://github.com/your-username/startup-dashboard.git
+cd startup-dashboard
 ```
 
-#### Step 2: Create Virtual Environment (Optional)
-
-```bash
-python -m venv venv
-# On Windows:
-.\venv\Scripts\Activate.ps1
-# On macOS/Linux:
-source venv/bin/activate
-```
-
-#### Step 3: Install Dependencies
-
+**② Install dependencies**
 ```bash
 pip install -r requirements.txt
 ```
 
-#### Step 4: Run Dashboard
-
+**③ Launch the app**
 ```bash
 streamlit run app.py
-```
-
-Dashboard will open at: `http://localhost:8501`
-
----
-
-## 🚀 How to Use
-
-### Navigation
-
-1. **Sidebar Menu** — Select Analysis Type
-   - Overall Analysis
-   - Investor Analysis
-   - Startup Analysis
-
-2. **Overall Analysis**
-   - View market metrics and trends
-   - No selection required
-   - Explore all data at once
-
-3. **Investor Analysis**
-   - Select investor from dropdown
-   - Click "View Details" button
-   - Explore investment portfolio
-
-4. **Startup Analysis**
-   - Select startup from dropdown
-   - Click "View Details" button
-   - View company-specific metrics
-
----
-
-## 📈 Key Insights You Can Derive
-
-### Market-Level
-
-- Largest funding rounds and key players
-- Dominant sectors and investment trends
-- Geographic distribution of startup activity
-- Seasonal patterns in investment activity
-
-### Investor-Level
-
-- Investment strategy and sector focus
-- Portfolio concentration and diversification
-- Investment growth over years
-- Typical investment round preferences
-
-### Company-Level
-
-- Funding trajectory and capital raised
-- Investor relationships and backing
-- Industry position relative to peers
-- Company growth stage indicators
-
----
-
-## ⚙️ Features & Error Handling
-
-### Robust Error Handling
-
-✅ All charts wrapped in try-catch blocks
-✅ Validates data before visualization
-✅ Graceful error messages for missing data
-✅ No crashes on empty datasets
-
-### Data Validation
-
-✅ Filters out null/NaN values
-✅ Validates numeric fields before plotting
-✅ Checks for positive amounts (removes zero funding)
-✅ Cleans investor and startup names
-
-### User Experience
-
-✅ Empty data shows info messages instead of errors
-✅ Loading with caching for better performance
-✅ Responsive layout for different screen sizes
-✅ Clear navigation and intuitive interface
-
----
-
-## 🎨 UI/UX Design Elements
-
-### Icons & Symbols (HTML Entities)
-
-- &#128202; Chart (Overall Analysis)
-- &#128176; Money (Investor)
-- &#128640; Rocket (Startup)
-- &#128188; Briefcase (Investors list)
-- &#128197; Calendar (Recent investments)
-- &#127919; Target (Sectors)
-- &#128200; Chart Up (Trends)
-- &#127970; Building (Dashboard title)
-
-### Color Scheme
-
-- **Primary Charts** — Blue (#1f77b4), Green (#2ca02c), Orange (#ff7f0e)
-- **Emphasis** — Red (#d62728), Purple (#9467bd)
-- **Footer** — Professional grey tones
-
-### Layout
-
-- Wide layout for better visualization
-- Multi-column sections for side-by-side comparisons
-- Dividers for clear section separation
-- Professional footer with copyright
-
----
-
-## 📝 Plan of Action (Completed)
-
-### Phase 1: Data Cleaning ✅
-
-- Removed invalid entries
-- Standardized field values
-- Fixed formatting issues
-
-### Phase 2: Data Analysis ✅
-
-- Aggregated metrics
-- Created utility functions
-- Prepared data for visualization
-
-### Phase 3: Streamlit Implementation ✅
-
-- Overall Analysis section
-- Investor POV implementation
-- Startup/Company POV implementation
-- General Analysis features
-- Footer & branding
-
-### Phase 4: Error Handling & Optimization ✅
-
-- Added comprehensive error handling
-- Optimized performance with caching
-- Validated all inputs
-- Created user-friendly messages
-
----
-
-## 🔧 Utility Functions (Backend)
-
-```python
-get_startup_investors(startup_name)
-# Returns: DataFrame of all funding rounds for a startup
-
-get_investor_startups(investor_name)
-# Returns: DataFrame of all investments by an investor
-
-get_all_unique_investors()
-# Returns: Sorted list of unique investor names
-
-get_similar_startups(vertical_name)
-# Returns: All startups in the same vertical/sector
-
-get_similar_investors(investor_name, top_n=5)
-# Returns: Top N investors with similar investment patterns
+# ✅ App opens at http://localhost:8501
 ```
 
 ---
 
-## 📖 Dataset Information
+## 📊 Dataset
 
-### Total Records
+The dashboard is powered by `startup_cleaned.csv` — a cleaned and preprocessed version of Indian startup funding records.
 
-- Startups: 100+ unique companies
-- Investors: 200+ unique investors
-- Funding Rounds: 400+ investment events
-- Time Period: 2019-2020
-
-### Key Statistics
-
-- Total Funding: ₹100,000+ Crores
-- Average Deal Size: ₹200-400 Crores
-- Top Sector: FinTech, E-commerce
-- Top Cities: Bengaluru, Gurgaon, Mumbai, Delhi
+| Column | Description |
+|---|---|
+| `startup_name` | Name of the startup |
+| `industry_vertical` | Sector / Industry |
+| `city` | Headquarter city |
+| `investors_name` | Names of investors |
+| `investment_type` | Seed / Series A / B / C etc. |
+| `amount_in_usd` | Funding amount in USD |
+| `date` | Date of funding round |
 
 ---
 
-## 🐛 Known Limitations
-
-1. **Dataset Scope** — Limited to Indian startups (2019-2020)
-2. **Founder Info** — Founder names not included in current dataset
-3. **Company Details** — Limited to available columns in CSV
-4. **Real-time Data** — Static dataset, not updated live
-
 ---
 
-## 🚀 Future Enhancements
+<div align="center">
 
-- [ ] Add founder information lookup
-- [ ] Implement advanced filtering options
-- [ ] Add export to PDF/Excel functionality
-- [ ] Real-time data integration
-- [ ] Machine learning predictions
-- [ ] Investor recommendation system
-- [ ] Company performance tracking
-- [ ] Interactive network graphs
+## ⭐ Found it useful? Give it a star!
 
----
+*"Data is the new oil — but only if you can refine it."*
 
-## 📞 Support & Documentation
+<br/>
 
-### Streamlit Docs
+[![Open Dashboard](https://img.shields.io/badge/🚀%20Open%20Live%20Dashboard-0ea5e9?style=for-the-badge)](https://indian-startup.streamlit.app/)
 
-https://docs.streamlit.io/
+<br/>
 
-### Dataset Source
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d4a6e,100:0e7490&height=100&section=footer"/>
 
-https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding
-
-### Markdown Guide
-
-https://www.markdownguide.org/
-
----
-
-## � Important Links
-
-- **🌐 Live Dashboard:** https://indian-startup.streamlit.app/
-- **📚 GitHub Repository:** https://github.com/Aditya-Sharma-Aiml/Indian-Startup-Dasboard
-- **📖 Streamlit Documentation:** https://docs.streamlit.io/
-- **📊 Dataset Source:** https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding
-
----
-
-## 📄 License & Credits
-
-**Created by:** Aditya Sharma  
-**Built with:** ❤️ Streamlit & Python  
-**Data Source:** Indian Startup Funding Dataset (Kaggle)  
-**Deployment:** Streamlit Cloud
-
-© 2026 All rights reserved.
-
----
-
-## 📝 Version History
-
-**v1.0 (Current)**
-
-- Initial release with 3 analysis perspectives
-- Complete error handling implementation
-- Professional UI/UX design
-- Comprehensive documentation
-
----
-
-> **Note:** This dashboard is designed for educational and analytical purposes. Data accuracy depends on dataset quality and completeness.
+</div>
